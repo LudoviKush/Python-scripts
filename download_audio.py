@@ -1,5 +1,4 @@
 from pydub import AudioSegment
-import os
 import click
 import os
 
